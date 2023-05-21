@@ -26,7 +26,7 @@ Pós Graduação Cesar School - Cadeira Computação em Nuvem
 # 1.1.	Quantos filmes estão disponíveis no dataset?
 | **Função Utilizda** | **Link Documentação** | **Explicação de uso na atividade**|
 | -----               | -----                 | ------ |
-| value_counts()      | [pandas.Series.value_counts](https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html). | O objetivo de utilizar o value_counts() é realizar a contagem dos valores contidos em uma Data Series ou seja uma coluna especifica, a artir de uma primary_key, como é o caso da coluna Movie_Id, foi possivél contar a quantidade de valores nessa coluna e retornar |
+| value_counts()      | [pandas.Series.value_counts](https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html). | O objetivo de utilizar o value_counts() é realizar a contagem dos valores contidos em uma Data Series ou seja uma coluna especifica, a artir de uma primary_key, como é o caso da coluna Movie_Id, foi possível contar a quantidade de valores nessa coluna e retornar |
 | sum()               | [pandas.DataFrame.sum](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sum.html)  | A sum() soma todos os valores, com isso, primeira função é verificada a quantidade de primary_key, e a função sum() soma elas para retornar um valor total.|
 
 

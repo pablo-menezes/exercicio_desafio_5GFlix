@@ -8,7 +8,7 @@ Pós Graduação Cesar School - Cadeira Computação em Nuvem
 
 | **Tipo de Projeto**                                                 | **Ferramental**               | **Linguagem**        |  **Data Entrega** |
 | ----------------------------                                        | ----------------------        | -------------        | -------------     |
-|Responder Perguntas a apartir de base de dados                       | Google Colab                  | Python With Pandas   | 21/05/2023        |
+|Responder Perguntas a partir de base de dados                       | Google Colab                  | Python With Pandas   | 21/05/2023        |
 
 
 
